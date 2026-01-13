@@ -70,3 +70,11 @@ This is the kind of Excel work expected in entry-level to mid-level data analyst
 ✅ Completed
 📌 Scope for future improvement: target benchmarks, variance analysis, and deeper efficiency metrics..
 
+📌 Author
+
+Ahamed Abdul Kadhar
+Aspiring Data Analyst | Excel | Power BI | SQL | Python
+
+📬 Open to feedback, collaboration, and data analyst opportunities.
+
+🔗 Connect With Me 📧 [faizulahamed256@gmail.com] 💼 [https://www.linkedin.com/in/ahamed-abdul-kadhar-b44705301]
